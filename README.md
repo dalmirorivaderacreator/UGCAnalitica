@@ -14,6 +14,6 @@ El objetivo es ayudarlo a entender y mejorar su visibilidad en la plataforma, us
 - **Contraste:** documentación oficial de Upwork (las empresas filtran por badge activa).
 - **Recomendación:** mantener la badge siempre activa + perfil optimizado.
 
-📄 Archivo: `BADGE_Y_VISTAS_AL_PERFIL_GITHUB.pdf](https://github.com/user-attachments/files/27981792/BADGE_Y_VISTAS_AL_PERFIL_GITHUB.pdf)
+📄 Archivo: `[BADGE_Y_VISTAS_AL_PERFIL_GITHUB.pdf](https://github.com/user-attachments/files/27981813/BADGE_Y_VISTAS_AL_PERFIL_GITHUB.pdf)
 `  
 🎥 Video resumen: [https://www.linkedin.com/posts/dalmiro-rivadera-847854384_consegu%C3%AD-mi-primer-cliente-un-freelancer-ugcPost-7462303425741955072-jU28]
