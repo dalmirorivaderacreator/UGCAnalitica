@@ -38,4 +38,5 @@ El objetivo es ayudarlo a entender y mejorar su visibilidad en la plataforma, us
 - Datos de mercado demuestran que esta estrategia puede aumentar la tasa de respuesta hasta un 20% en sectores creativos.
 
 📄 Archivo: [PDF - Análisis de propuestas y conversión.pdf](https://github.com/user-attachments/files/28291470/INSIGHT_PROPUESTAS_CONVERSION.pdf)
-🎥 Video resumen: ...
+
+🎥 Video resumen: https://www.linkedin.com/posts/dalmiro-rivadera-847854384_dataanalytics-upwork-freelancer-ugcPost-7465391928034029568-PGQ7/
