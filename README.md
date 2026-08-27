@@ -233,7 +233,7 @@ En los casos auditados, la conversión estuvo más directamente asociada al **po
 
 El video continúa siendo una táctica válida para experimentar en propuestas outbound, pero **su impacto no puede considerarse demostrado a partir de esta muestra**.
 
-📄 **Archivo:** [PDF - Resultados de Badge, Boost y Conversión](PEGAR-AQUÍ-EL-LINK-DEL-PDF)
+📄 **Archivo:** [PDF - Resultados de Badge, Boost y Conversión]()
 
 ---
 
