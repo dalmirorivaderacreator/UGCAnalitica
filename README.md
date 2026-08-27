@@ -334,6 +334,7 @@ La idea central del proyecto es:
 Cada insight parte de un problema concreto y busca responder una pregunta mediante evidencia:
 
 ```text
+
 PROBLEMA
    ↓
 PREGUNTA
@@ -347,3 +348,17 @@ ANÁLISIS
 INSIGHT
    ↓
 DECISIÓN
+
+```
+
+Este proyecto representa mi primera etapa de aprendizaje:
+
+Primero aprender a pensar como analista.
+Después aprender a automatizar ese pensamiento con herramientas técnicas.
+
+---
+# Estado del proyecto
+
+En desarrollo.
+
+UGCAnalitica continúa evolucionando a medida que se incorporan nuevos datos, se validan hipótesis anteriores y se profundiza en el análisis del comportamiento del perfil y las oportunidades dentro de Upwork.
