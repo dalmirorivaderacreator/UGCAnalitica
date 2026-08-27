@@ -255,7 +255,7 @@ CONTACTO / INVITACIÓN
 RESPUESTA Y NEGOCIACIÓN
     ↓
 CONTRATO
-
+```
 # Principales aprendizajes
 
 ### 1. La visibilidad por sí sola no garantiza conversiones
