@@ -235,10 +235,6 @@ El video continúa siendo una táctica válida para experimentar en propuestas o
 
 📄 **Archivo:** [PDF - Resultados de Badge, Boost y Conversión] [Upwork_Insights_Badge_Conversion_Analisis.pdf](https://github.com/user-attachments/files/31520902/Upwork_Insights_Badge_Conversion_Analisis.pdf) 
 
-[Upwork_Insights_Badge_Conversion_Analisis.pdf](https://github.com/user-attachments/files/31520924/Upwork_Insights_Badge_Conversion_Analisis.pdf)
-
-
-
 ---
 
 # Conclusiones generales
