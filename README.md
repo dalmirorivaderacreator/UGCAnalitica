@@ -183,7 +183,7 @@ La combinación de ambas herramientas produjo el **mayor volumen de contratos ob
 
 Los datos sugieren que la estrategia más efectiva observada fue combinar **exposición + disponibilidad**, especialmente cuando existe capacidad para absorber una mayor demanda.
 
-📄 **Archivo:** [PDF - Análisis de Badge, Boost y Conversión](PEGAR-AQUÍ-EL-LINK-DEL-PDF)
+📄 **Archivo:** [PDF - Resultados de Badge, Boost y Conversión] [Upwork_Insights_Badge_Conversion_Analisis.pdf](https://github.com/user-attachments/files/31520902/Upwork_Insights_Badge_Conversion_Analisis.pdf) 
 
 ---
 
@@ -317,7 +317,7 @@ Por eso, el foco inicial estuvo puesto en desarrollar habilidades de razonamient
 - Cuestionar las hipótesis iniciales.
 - Transformar los resultados en decisiones.
 
-Las herramientas técnicas serán incorporadas progresivamente para **reproducir, automatizar y escalar este proceso de análisis**.
+Las herramientas técnicas serán incorporadas progresivamente para **mi próximo proyecto de insight usando SQL, PYTHON, POWER BI Y GOOGLE SHEETS  **.
 
 ---
 
