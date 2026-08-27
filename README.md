@@ -317,7 +317,7 @@ Por eso, el foco inicial estuvo puesto en desarrollar habilidades de razonamient
 - Cuestionar las hipótesis iniciales.
 - Transformar los resultados en decisiones.
 
-Las herramientas técnicas serán incorporadas progresivamente para **mi próximo proyecto de insight usando SQL, PYTHON, POWER BI Y GOOGLE SHEETS  **.
+Las herramientas técnicas serán incorporadas progresivamente para **mi próximo proyecto de insight usando SQL, PYTHON, POWER BI Y GOOGLE SHEETS**.
 
 ---
 
