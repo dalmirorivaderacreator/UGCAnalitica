@@ -1,11 +1,39 @@
-# 📊 Upwork UGC Analytics: Optimización de Visibilidad y Conversión
+UGCAnalitica
+¿Qué es esto?
+Este es mi primer proyecto real con datos reales y mi primer cliente real: un freelancer de Upwork (contenido UGC).
 
-## 📌 1. Objetivo del Proyecto
-Este proyecto nació de una necesidad real para un cliente freelancer enfocado en la creación de contenido UGC (User Generated Content) en Upwork. El objetivo principal fue auditar su rendimiento en la plataforma mediante un enfoque basado en datos (*data-driven*), identificando cuellos de botella en su embudo de conversión y contrastando las métricas obtenidas con fuentes oficiales y benchmarks de la industria para accionar mejoras comerciales.
+El objetivo es ayudarlo a entender y mejorar su visibilidad en la plataforma, usando datos y contrastando con fuentes oficiales.
 
-## 🔧 2. Metodología y Herramientas
-Para garantizar la solidez estadística del análisis, se implementó el siguiente flujo de trabajo:
+Análisis realizados (hasta ahora)
+1. Impacto de la Availability Badge de Upwork
+Problema: caída de visitas al perfil sin causa aparente.
+Método: comparación entre meses con badge activa (enero) y sin badge (abril).
+Resultado clave: con badge = 5 contratos; sin badge = 1 contrato.
+Contraste: documentación oficial de Upwork (las empresas filtran por badge activa).
+Recomendación: mantener la badge siempre activa + perfil optimizado.
+📄 Archivo: https://github.com/user-attachments/files/27981813/BADGE_Y_VISTAS_AL_PERFIL_GITHUB.pdf
 
-*   **Extracción de Datos:** Recopilación y curación manual de métricas de la interfaz de usuario (UI) de Upwork, consolidando un histórico de visitas al perfil por mes y un dataset de **94 propuestas enviadas** (archivadas y activas).
-*   **Procesamiento y Análisis:** Limpieza de datos y cálculo de KPIs clave (Tasa de éxito, Tasa de visualización de propuestas o PVR) utilizando Gemini/Deepseek para procesamiento**.
-*   **Benchmarking y Contraste:** Validación de métricas propias frente a documentación oficial de Upwork y reportes técnicos de plataformas de automatización del sector (**GigRadar y GetMany**).
+🎥 Video resumen: [https://www.linkedin.com/posts/dalmiro-rivadera-847854384_consegu%C3%AD-mi-primer-cliente-un-freelancer-ugcPost-7462303425741955072-jU28]
+
+2. Propuestas y tasa de conversión (cuello de botella)
+Problema: el cliente tiene la insignia activada, su perfil es visto y sus propuestas también, pero no se convierten en contratos. ¿Dónde está el cuello de botella?
+
+Método:
+
+Extracción manual de 103 propuestas (94 archivadas + 9 activas) desde la UI de Upwork.
+Cálculo de tasa de éxito y porcentaje de propuestas vistas sin respuesta.
+Validación con benchmarks del mercado (GigRadar, GetMany).
+Resultado clave:
+
+Tasa de éxito: 6,4% (dentro del promedio competitivo 3-10%).
+33% de las propuestas activas son vistas pero no respondidas.
+El promedio de visualización (PVR) en Upwork es del 12-17%; el cliente tiene 33% → muy por encima de la media.
+Contraste: fuentes de la industria confirman que un PVR del 33% indica que el algoritmo ya ubica al freelancer como “Best Match”. El problema no es visibilidad, es conversión (las primeras líneas de la propuesta no convencen).
+
+Recomendación:
+
+Enviar un video personalizado (30-60 segundos, estilo Loom) para cada nicho de cliente.
+Datos de mercado demuestran que esta estrategia puede aumentar la tasa de respuesta hasta un 20% en sectores creativos.
+📄 Archivo: PDF - Análisis de propuestas y conversión.pdf
+
+🎥 Video resumen: https://www.linkedin.com/posts/dalmiro-rivadera-847854384_dataanalytics-upwork-freelancer-ugcPost-7465391928034029568-PGQ7/
