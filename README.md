@@ -241,6 +241,7 @@ El video continúa siendo una táctica válida para experimentar en propuestas o
 
 Los análisis realizados permiten construir una visión progresiva del funnel de adquisición y conversión en Upwork:
 
+```text
 EXPOSICIÓN
     ↓
 Profile Boost
@@ -254,96 +255,3 @@ CONTACTO / INVITACIÓN
 RESPUESTA Y NEGOCIACIÓN
     ↓
 CONTRATO
-Principales aprendizajes
-
-1. La visibilidad por sí sola no garantiza conversiones.
-
-El Profile Boost puede aumentar la exposición, pero una mayor cantidad de impresiones no implica necesariamente un mayor número de contratos.
-
-2. La Availability Badge mostró una fuerte asociación con la recuperación del volumen de contratos.
-
-Después del período con 1 contrato en abril, se registraron 25 contratos entre mayo y agosto, con un promedio de 6,25 contratos/mes.
-
-3. La combinación de herramientas produjo el mejor resultado observado.
-
-Badge + Boost alcanzó 9 contratos en 25 días durante agosto.
-
-4. El análisis de propuestas permitió identificar un problema posterior a la visibilidad.
-
-El 33% de las propuestas activas analizadas fueron vistas pero no respondidas, lo que llevó a investigar mecanismos adicionales de conversión.
-
-5. Las hipótesis deben validarse con datos reales.
-
-El análisis del video personalizado mostró que una hipótesis razonable no necesariamente queda demostrada por los resultados observados.
-
-De los 6 casos auditados, 0 utilizaron video personalizado en el primer contacto.
-
-Herramientas utilizadas
-
-Este proyecto fue desarrollado principalmente con asistencia de herramientas de Inteligencia Artificial, entre ellas:
-
-ChatGPT
-Google Gemini
-DeepSeek
-
-Las herramientas de IA fueron utilizadas para ayudar a procesar, explorar e interpretar los datos, contrastar hipótesis y estructurar el análisis.
-
-No se utilizaron Python, SQL, PostgreSQL, Power BI ni otras herramientas tradicionales de análisis para procesar estos datos en esta etapa del proyecto.
-
-¿Por qué?
-
-UGCAnalitica fue mi primer proyecto real con datos reales y un cliente real.
-
-Antes de enfocarme en dominar herramientas técnicas, quise entender algo más fundamental:
-
-¿Cómo piensa y genera valor un analista de datos?
-
-Por eso, el foco inicial estuvo puesto en aprender a:
-
-Identificar problemas de negocio.
-Formular preguntas relevantes.
-Construir hipótesis.
-Buscar y organizar evidencia.
-Interpretar métricas.
-Detectar patrones.
-Cuestionar las hipótesis iniciales.
-Transformar los resultados en decisiones.
-
-Las herramientas técnicas serán incorporadas progresivamente para reproducir, automatizar y escalar este proceso de análisis.
-
-Enfoque del proyecto
-
-UGCAnalitica no busca únicamente mostrar gráficos o métricas.
-
-El objetivo principal es demostrar un proceso de análisis de datos aplicado a una problemática comercial real.
-
-El proyecto se construye alrededor de una idea:
-
-El valor del análisis no está en la herramienta utilizada, sino en la capacidad de convertir datos en mejores decisiones.
-
-Por eso, cada insight parte de un problema concreto y busca responder una pregunta:
-
-PROBLEMA
-   ↓
-PREGUNTA
-   ↓
-HIPÓTESIS
-   ↓
-DATOS
-   ↓
-ANÁLISIS
-   ↓
-INSIGHT
-   ↓
-DECISIÓN
-
-Este proyecto representa mi primera etapa de aprendizaje:
-
-Primero aprender a pensar como analista.
-Después aprender a automatizar ese pensamiento con herramientas técnicas.
-
-Estado del proyecto
-
-En desarrollo.
-
-UGCAnalitica continúa evolucionando a medida que se incorporan nuevos datos, se validan hipótesis anteriores y se profundiza en el análisis del comportamiento del perfil y las oportunidades dentro de Upwork.
