@@ -362,3 +362,7 @@ Después aprender a automatizar ese pensamiento con herramientas técnicas.
 En desarrollo.
 
 UGCAnalitica continúa evolucionando a medida que se incorporan nuevos datos, se validan hipótesis anteriores y se profundiza en el análisis del comportamiento del perfil y las oportunidades dentro de Upwork.
+---
+#### 🚀 Evolución del Proyecto: De la Hipótesis a la Ingeniería de Datos
+
+Este proyecto nació como un análisis conceptual para validar hipótesis de negocio sobre el rendimiento de un freelancer en Upwork. Tras definir los KPIs y la lógica comercial, el proyecto evoluciona hacia una solución de* **Analytics Engineering** *para consolidar mi perfil profesional. Actualmente estoy implementando un pipeline técnico end-to-end (Bronze ➔ Silver ➔ Gold) para transformar datos crudos en data marts gobernados con Python, SQL y dbt.
